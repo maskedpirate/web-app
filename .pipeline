@@ -1,0 +1,7 @@
+{
+  "type": "embedded-client",
+  "tools": {
+    "client": "angular",
+    "server": "springboot"
+  }
+}
